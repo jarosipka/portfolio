@@ -1,0 +1,84 @@
+{
+  "header": {
+    "name": "Jaroslav Sipka",
+    "sectionTitle": "JS Portfolio",
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "contact": "Contact"
+  },
+
+  "about": {
+    "sectionTitle": "About Me",
+    "description": "Highly motivated and creative Frontend Developer with a passion for building beautiful and user-friendly web applications. Skilled in using a variety of technologies and tools, including HTML, CSS, JavaScript, and popular frameworks such as React and Vue.js. Experienced in developing and testing responsive designs for mobile and desktop devices, and in optimizing website performance and accessibility. Proficient in working collaboratively with cross-functional teams, including designers, back-end developers, and product managers, to deliver high-quality results on time and within budget. Committed to staying up-to-date with the latest developments in the field and continuously expanding knowledge and skills through ongoing education and training. Seeking a challenging position in the field of frontend development, with a focus on delivering exceptional user experiences and innovative solutions to complex problems",
+    "city": "Vychodna, Slovakia",
+    "birthday": "Birthday",
+    "number": "Number",
+    "address": "City"
+  },
+
+  "hero": {
+    "developer": "I'm Front-End Developer"
+  },
+  "facts": {
+    "sectionTitle": "Facts",
+    "url": "Link to the source code",
+    "strong1": "Happy Clients",
+    "strong2": "Projects",
+    "strong3": "Hours Of Support",
+    "strong4": "Hard Workers"
+  },
+  "skills": {
+    "sectionTitle": "Skills"
+  },
+  "resume": {
+    "sectionTitle": "Resume",
+    "sectionDescription": "Personal Information",
+    "description": "As a budding Frontend Developer, I am passionate about creating beautiful and intuitive user interfaces using HTML, CSS, and JavaScrip.",
+    "sumary": "Sumary",
+    "education": "Education",
+    "myAddress": "032 32 Vychodna",
+    "locationEducation1": "Remote moderated online education",
+    "locationEducation2": "Liptovsky Hradok, Slovakia",
+    "aboutEducation": "Education course with online moderation, 3 sessions per day for a period of 5 months.",
+    "skills": "Skills",
+    "languages": "Languages",
+    "school": "Electrical engineering",
+    "aboutSchool": "I completed my secondary education at the secondary school of electrical engineering, where I gained a solid foundation in electrical engineering principles and practical skills, including learning programming basics throughout my studies. This education sparked my interest in software development, particularly in creating user interfaces. As a result, I have pursued additional training in frontend development and I am excited to apply my knowledge and skills in this area to create beautiful and user-friendly web applications.",
+    "experience": "Professional Experience",
+    "job1": "TEST ENGINEER",
+    "aboutJob1": "Responsible for performing testing on backup power sources and related equipment, including generators, battery systems, and other types of backup power equipment.",
+    "aboutJob2": "Analyze and report on results: After performing testing, testing engineers analyze and report on the results of their tests, including identifying any issues or problems that need to be addressed.",
+    "present": "Present",
+    "work": "ELECTRICAL INSTALLATION WORK",
+    "locationWork": "Germany",
+    "aboutWork": "I worked as an electrical installation worker in Germany for 2 years. I was responsible for the installation of electrical equipment and systems in residential and commercial buildings. I also worked on the installation of electrical equipment and systems in industrial facilities, including factories, warehouses, and other types of industrial buildings."
+  },
+  "portfolio": {
+    "sectionTitle": "Portfolio",
+    "sectionDescription": "Below are some examples of my work as a Frontend Developer. These projects demonstrate my skills in developing beautiful and user-friendly web applications using a variety of technologies and tools"
+  },
+  "services": {
+    "sectionTitle": "Services"
+  },
+  "testimonials": {
+    "sectionTitle": "Testimonials"
+  },
+  "contact": {
+    "sectionTitle": "Contact",
+    "sectionDescription": "I'm excited to hear from you and discuss potential opportunities. Please don't hesitate to reach out to me if you have any questions or if you would like to discuss my qualifications in further detail. You can find my contact information below",
+    "locationTitle": "Location:",
+    "location": "032 32 Vychodna, Slovakia",
+    "number": "Call:",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send",
+      "sendMessage": "Send Message"
+    }
+  }
+}

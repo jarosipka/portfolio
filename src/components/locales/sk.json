@@ -1,0 +1,92 @@
+{
+  "header": {
+    "name": "Jaroslav Šípka",
+    "sectionTitle": "JS Portfólio",
+    "home": "Domov",
+    "about": "O mne",
+    "resume": "Životopis",
+    "portfolio": "Portfólio",
+    "services": "Služby",
+    "contact": "Kontakt"
+  },
+  "about": {
+    "sectionTitle": "O mne",
+    "description": "Motivovaný a tvorivý frontendový vývojár so vášňou pre tvorbu krásnych a používateľsky prívetivých webových aplikácií. Zručný v používaní rôznych technológií a nástrojov, vrátane HTML, CSS, JavaScriptu a populárnych frameworkov ako React a Vue.js. Skúsenosti s vývojom a testovaním responzívnych dizajnov pre mobilné a desktopové zariadenia a s optimalizáciou výkonu a prístupnosti webových stránok. Zdatný v práci v tíme s ľuďmi z rôznych oblastí vrátane dizajnérov, backendových vývojárov a produktových manažérov, aby dodával kvalitné výsledky včas a v rámci rozpočtu. Zaviazaný udržiavať sa v súlade s najnovšími vývojmi v oblasti a neustále rozširovať vedomosti a zručnosti prostredníctvom trvalého vzdelávania a školení. Hľadá výzvovú pozíciu v oblasti frontendového vývoja s dôrazom na poskytovanie výnimočných používateľských skúseností a inovatívne riešenia komplexných problémov.",
+    "city": "032 32 Východná",
+    "birthday": "Dátum narodenia",
+    "number": "Tel. číslo",
+    "address": "Adresa"
+  },
+  "hero": {
+    "developer": "Som Front-End Developer"
+  },
+  "facts": {
+    "sectionTitle": "Fakty",
+    "url": "Zdrojový kód stránky",
+    "strong1": "Spojojných klientov",
+    "strong2": "Projektov",
+    "strong3": "Hodín ako podpora",
+    "strong4": "Ľudí"
+  },
+  "skills": {
+    "sectionTitle": "Zručnosti"
+  },
+  "resume": {
+    "sectionTitle": "Životopis",
+    "sectionDescription": "Osobné údaje",
+    "description": "Ako začínajúci Frontend Developer mám vášeň pre tvorbu krásnych a intuitívnych užívateľských rozhraní pomocou HTML, CSS a JavaScriptu.",
+    "sumary": "Zhrnutie",
+    "myAddress": "032 32 Východná",
+    "education": "Vzdelanie",
+    "locationEducation1": "Vzdelávanie na diaľku s moderátorom",
+    "locationEducation2": "Liptovský Hrádok",
+    "aboutEducation": "Vzdelávací kurz s online moderáciou, 3 hodiny denne po dobu 5 mesiacov.",
+    "skills": "Zručnosti",
+    "languages": "Jazyky",
+    "school": "Elektrotechnika",
+    "aboutSchool": "Dokončil som svoje stredoškolské vzdelanie na Strednej odborná škole elektrotechnickej, kde som získal pevné základy v princípoch elektrotechniky a praktické zručnosti, vrátane učenia sa základov programovania. Toto vzdelanie prebudilo môj záujem o IT. Absolvoval som dodatočné školenie v oblasti Front-End a teším sa, že môžem využiť moje vedomosti a zručnosti v tejto oblasti na vytváranie krásnych a užívateľsky prívetivých webových aplikácií.",
+    "experience": "Pracovné skúsenosti",
+    "job1": "Testovací technik",
+    "aboutJob1": "Zodpovednosťou bolo vykonávať testovanie záložných zdrojov energie a príslušného vybavenia, vrátane generátorov, batériových systémov a iných typov záložných zdrojov energie.",
+    "aboutJob2": "Analyzovať a spracovať výsledky: Po vykonaní testovania inžinieri testovania analyzujú a spracovávajú výsledky svojich testov, vrátane identifikácie akýchkoľvek problémov alebo závad, ktoré je potrebné riešiť.",
+    "present": "Súčasnosť",
+    "work": "ELEKTROINŠTALAČNÉ PRÁCE",
+    "locationWork": "Nemecko",
+    "aboutWork": "Pracoval som ako elektroinštalatér v Nemecku počas 2 rokov. Bol som zodpovedný za inštaláciu elektrických zariadení a systémov v bytových a komerčných budovách. Tiež som pracoval na inštalácii elektrických zariadení a systémov v priemyselných zariadeniach, vrátane tovární, skladov a iných typov priemyselných budov."
+  },
+  "portfolio": {
+    "sectionTitle": "Portfólio",
+    "sectionDescription": "My Portfolio",
+    "description": "Here are a few design projects I've worked on recently. Want to see more? Email me.",
+    "all": "Všetko",
+    "web": "Web",
+    "mobile": "Mobil",
+    "design": "Design",
+    "branding": "Branding"
+  },
+  "portfolio": {
+    "sectionTitle": "Portfólio",
+    "sectionDescription": "Nižšie budú príklady mojej práce ako Front-End Developera. Tieto projekty demonštrujú moje zručnosti v tvorbe krásnych a užívateľsky prívetivých webových aplikácií pomocou rôznych technológií a nástrojov."
+  },
+  "services": {
+    "sectionTitle": "Služby"
+  },
+  "testimonials": {
+    "sectionTitle": "Referencie"
+  },
+  "contact": {
+    "sectionTitle": "Kontakt",
+    "sectionDescription": "Teším sa, že sa mi ozvete a prediskutujeme potenciálne príležitosti. Neváhajte ma kontaktovať, ak máte akékoľvek otázky alebo ak chcete podrobnejšie prediskutovať moju kvalifikáciu. Moje kontaktné údaje nájdete nižšie",
+    "locationTitle": "Poloha:",
+    "location": "032 32 Východná",
+    "number": "Tel. číslo:",
+    "form": {
+      "name": "Meno",
+      "email": "Email",
+      "subject": "Predmet",
+      "message": "Správa",
+      "submit": "Odoslať",
+      "sendMessage": "Poslať správu"
+    }
+  }
+}
