@@ -1,0 +1,63 @@
+{
+  "name": "single-page",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@formspree/react": "^2.4.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
+    "appwrite": "^10.2.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "firebase": "^9.17.1",
+    "fslightbox-react": "^1.7.2",
+    "glightbox": "^3.2.0",
+    "google-map-react": "^2.2.0",
+    "i18next": "^22.4.10",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.6.3",
+    "react": "^18.2.0",
+    "react-burger-menu": "^3.0.9",
+    "react-circular-progressbar": "^2.1.0",
+    "react-countup": "^6.4.1",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.2.0",
+    "react-icons": "^4.7.1",
+    "react-image-gallery": "^1.2.11",
+    "react-modal": "^3.16.1",
+    "react-progress-bar": "^0.1.0",
+    "react-responsive-menu": "^1.0.1",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "^5.0.1",
+    "swiper": "^6.8.4",
+    "typed.js": "^2.0.12",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
